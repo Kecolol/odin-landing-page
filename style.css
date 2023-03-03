@@ -4,8 +4,8 @@ body {
   display: flex;
   flex-direction: column;
   background: #1F2937;
+  overflow: hidden;
 }
-
 
 .section1 {
   display: flex;
